@@ -2,4 +2,6 @@
 <resources>
     <string name="app_name">Volume Wake</string>
     <string name="service_desc">Menyalakan layar saat tombol Volume Up ditekan ketika layar mati.</string>
+    <string name="notif_text">Aktif: Volume Up menyalakan layar saat layar mati</string>
+    <string name="started">Volume Wake aktif</string>
 </resources>
